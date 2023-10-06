@@ -1,0 +1,7 @@
+.mcard {
+  transition: all 0.3s;
+}
+.mcard:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
